@@ -1,4 +1,4 @@
-# AudioSpeechProcessingCodes - Brian Stasak (2026)
+# AudioSpeechProcessingCodes
 Quick scripts for processing audio-related files
 
 This directory contains a collection of several python and perl scripts that are useful during audio-speech processing. Brief descriptions regarding each is given below:
