@@ -1,0 +1,10 @@
+<List your files you need to match; 
+<Example where you only want 100 specific files out of a folder with 5k files>
+File_1.wav
+File_2.wav
+File_3.wav
+File_4.wav
+File_5.wav
+File_6.wav
+File_7.wav
+ABC_123.txt
